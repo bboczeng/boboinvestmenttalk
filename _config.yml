@@ -32,9 +32,10 @@ twitter_username: bboczeng
 github_username:  bboczeng
 
 # Build settings
-theme: jekyll-theme-minima
+remote_theme: jekyll/minima 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.

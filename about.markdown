@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+这是一个记录美股投资重点新闻、趋势分析、集思广益、操作回顾的个人博客；
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+他将集我网络交流与信息整合、分析能力之大成
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+将投资，变成一件专业的事。力争让我本人，和大家一起避免因为投机和基本的错误而产生不必要的亏损
 
+尽可能的完成我们每个人的，年度收益目标
 
-[jekyll-organization]: https://github.com/jekyll
+他的下一步，将会集合问答，评论，与仓位分享（建设中）等功能
