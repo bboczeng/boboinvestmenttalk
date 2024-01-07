@@ -52,7 +52,7 @@ categories: market trend 2024
 
     - 一月份第一周的股指的走势对全年走势有指导意义。每当第一周主要股指为跌，那么全年美股的平均回报率将不超过*1%*
     
-    <img style="display: block;margin: auto; width: 80%; height: auto;" src="/img/2024-01-06/first-5-days.png">
+    <img style="display: block;margin: auto; width: 60%; height: auto;" src="/img/2024-01-06/first-5-days.png">
 
 
  3. **我的观点**
