@@ -21,7 +21,7 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
-    <div style="margin: 50px;"><applause-button style="width: 58px; height: 58px; margin: auto;"/></div>
+    <div style="margin: 50px;"><applause-button style="width: 58px; height: 58px; margin:auto;" url="{{ page.url | relative_url }}"/></div>
   </div>
 
   {% include welcomments/comments.html website_id = "MPBb8ZWrUzAagsfrXNnLCitt9" %}
