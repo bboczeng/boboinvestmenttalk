@@ -21,11 +21,11 @@
 title: BoBo 的美股投资夜夜秀
 email: boboinvestmenttalk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  这是一个记录美股投资重点新闻、趋势分析、集思广益、操作回顾的个人博客；
-  他将集我网络交流与信息整合、分析能力之大成
-  将投资，变成一件专业的事。力争让我本人，和大家一起避免因为投机和基本的错误而产生不必要的亏损
-  尽可能的完成我们每个人的，年度收益目标
-  他的下一步，将会集合问答，评论，与仓位分享（建设中）等功能
+  BoBo 的美股投资夜夜秀
+  (c) 2024 版权所有
+  至少每周更新
+  全新功能如评论、问答、登录、晒我仓位等功能即将推出
+  尽情期待
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bboczeng.github.io/boboinvestmenttalk/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bboczeng
