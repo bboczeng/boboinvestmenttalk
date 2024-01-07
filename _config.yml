@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: BoBo 的美股投资夜夜秀
+title: BoBo的美股投资夜夜秀
 email: boboinvestmenttalk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  BoBo 的美股投资夜夜秀 | 
+  BoBo的美股投资夜夜秀 | 
   (c) 2024 版权所有 | 
   每周或更快更新 | 
   全新功能如评论、问答、登录、晒我仓位等功能即将推出 | 
