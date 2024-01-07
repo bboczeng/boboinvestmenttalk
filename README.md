@@ -1,6 +1,6 @@
 # bobo 的美股投资夜话
 
-可视化版链接地址：[https://bboczeng.github.io/](https://bboczeng.github.io/boboinvestmenttalk/)
+可视化版链接地址：[https://bboczeng.github.io/boboinvestmenttalk](https://bboczeng.github.io/boboinvestmenttalk/)
 
 V1.0, 2024年第一周
 
